@@ -1,10 +1,10 @@
 # URL Shortener System (C++)
 
-A scalable and extensible URL Shortener system implemented in C++ using Object-Oriented Programming (OOP) and STL.
+A scalable and extensible URL Shortener system implemented in C++ using Object-Oriented Programming (OOP) and STL.  
 The project focuses on clean system design, performance, and scalability.
 
 ## Motivation
-URL shortening is a common backend problem that involves hashing, fast lookups, collision handling, and expiry.
+URL shortening is a common backend problem that involves hashing, fast lookups, collision handling, and expiry.  
 This project was built to practice system design fundamentals using C++.
 
 ## System Design Overview
